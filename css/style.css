@@ -1,18 +1,22 @@
 body{
-    background-color: bisque;
+    background: blue;
 }
 header{
-    color: bisque;
+    background: red;
+}
+header .h1{
+    color: aquamarine;
 }
 nav{
-    color: blue;
+    background: #123456;
 }
-main .h1{
-    color: blueviolet;
+main{
+    color: aqua;
+    background: #123456;
 }
 footer{
-    color: azure;
+    background: red;
 }
 footer .h1{
-    color: aquamarine;
+    color: aqua;
 }
